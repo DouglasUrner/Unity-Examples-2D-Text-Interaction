@@ -10,3 +10,5 @@ Dialog Area
 
 ## Tutorials
 
+### Unity Live Trainings
+* [Creating a Text Based Adventure: Part 1](https://unity3d.com/learn/live-training/session/creating-text-based-adventure-part-1)
