@@ -14,3 +14,4 @@ Dialog Area
 
 ### Unity Live Trainings
 * [Creating a Text Based Adventure: Part 1](https://unity3d.com/learn/live-training/session/creating-text-based-adventure-part-1)
+* [Speech Bubbles and Popup UI](http://unity.grogansoft.com/speech-bubbles-and-popup-ui/)
