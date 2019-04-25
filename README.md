@@ -42,5 +42,5 @@ Start off by creating a UI Text element, this will be where our output (messages
 ## Tutorials
 
 ### Unity Live Trainings
-* [Creating a Text Based Adventure: Part 1](https://unity3d.com/learn/live-training/session/creating-text-based-adventure-part-1)
+* [Live Session: Text Adventure Game Part ](https://learn.unity.com/tutorial/5c514cacedbc2a0020694a0c)
 * [Speech Bubbles and Popup UI](http://unity.grogansoft.com/speech-bubbles-and-popup-ui/)
